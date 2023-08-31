@@ -1,0 +1,1 @@
+# VanJS + JSDoc template

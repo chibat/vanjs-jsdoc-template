@@ -1,8 +1,6 @@
-
-// @deno-types="./vendor/van-1.1.3.min.d.ts"
 import van from "./vendor/van-1.1.3.min.js";
 
-const {button, div, pre} = van.tags;
+const {button, div, pre } = van.tags;
 
 const sleep = (/** @type {number | undefined} */ ms) => new Promise(resolve => setTimeout(resolve, ms))
 
